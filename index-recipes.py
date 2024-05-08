@@ -64,7 +64,10 @@ for ingredient in list(recipe_index.keys())[:3]:
 
 # SAVE THE INDEX
 print(f"Now saving index to {outputpath}...")
+# use json library to convert the index into a json we can write to file in a nice format (with indentation)
+json_recipe_index = json.dumps(recipe_index, indent=4)
+# write to file
 with open(outputpath, "w") as f:
-    f.write(json.dumps(recipe_index, indent=4))
+    f.write(json_recipe_index)
 
 
