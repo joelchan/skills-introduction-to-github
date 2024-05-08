@@ -1,0 +1,335 @@
+{
+    "mushrooms": [
+        "Garlic Butter Mushrooms",
+        "Spinach and Cheese Stuffed Mushrooms"
+    ],
+    "garlic": [
+        "Garlic Butter Mushrooms",
+        "Cheesy Cauliflower Bake",
+        "Saut\u00e9ed Green Beans",
+        "Stuffed Bell Peppers",
+        "Greek Style Lemon Potatoes",
+        "Spinach and Cheese Stuffed Mushrooms",
+        "Cucumber Dill Salad",
+        "Butternut Squash Soup",
+        "Garlic Parmesan Asparagus",
+        "Sesame Ginger Bok Choy"
+    ],
+    "butter": [
+        "Garlic Butter Mushrooms",
+        "Mashed Sweet Potatoes",
+        "Cheesy Polenta",
+        "Honey Glazed Baby Carrots"
+    ],
+    "parsley": [
+        "Garlic Butter Mushrooms",
+        "Herbed Couscous",
+        "Quinoa Tabbouleh",
+        "Honey Glazed Baby Carrots",
+        "Mediterranean Chickpea Salad"
+    ],
+    "salt": [
+        "Garlic Butter Mushrooms",
+        "Creamy Coleslaw",
+        "Cilantro Lime Rice",
+        "Maple Roasted Carrots",
+        "Parmesan Zucchini Fries",
+        "Cheesy Cauliflower Bake",
+        "Spicy Sweet Potato Wedges",
+        "Saut\u00e9ed Green Beans",
+        "Broccoli and Cheese Stuffed Potatoes",
+        "Corn and Black Bean Salad",
+        "Balsamic Brussels Sprouts",
+        "Roasted Beet and Feta Salad",
+        "Greek Style Lemon Potatoes",
+        "Spinach and Cheese Stuffed Mushrooms",
+        "Herbed Couscous",
+        "Cucumber Dill Salad",
+        "Quinoa Tabbouleh",
+        "Butternut Squash Soup",
+        "Garlic Parmesan Asparagus",
+        "Mashed Sweet Potatoes",
+        "Cheesy Polenta",
+        "Honey Glazed Baby Carrots",
+        "Fried Green Tomatoes",
+        "Crispy Onion Rings"
+    ],
+    "black pepper": [
+        "Garlic Butter Mushrooms"
+    ],
+    "cabbage": [
+        "Creamy Coleslaw"
+    ],
+    "carrot": [
+        "Creamy Coleslaw"
+    ],
+    "mayonnaise": [
+        "Creamy Coleslaw"
+    ],
+    "vinegar": [
+        "Creamy Coleslaw",
+        "Apple Walnut Salad"
+    ],
+    "sugar": [
+        "Creamy Coleslaw"
+    ],
+    "pepper": [
+        "Creamy Coleslaw",
+        "Maple Roasted Carrots",
+        "Parmesan Zucchini Fries",
+        "Cheesy Cauliflower Bake",
+        "Saut\u00e9ed Green Beans",
+        "Broccoli and Cheese Stuffed Potatoes",
+        "Corn and Black Bean Salad",
+        "Balsamic Brussels Sprouts",
+        "Roasted Beet and Feta Salad",
+        "Greek Style Lemon Potatoes",
+        "Spinach and Cheese Stuffed Mushrooms",
+        "Cucumber Dill Salad",
+        "Butternut Squash Soup",
+        "Garlic Parmesan Asparagus",
+        "Cheesy Polenta",
+        "Honey Glazed Baby Carrots",
+        "Fried Green Tomatoes",
+        "Crispy Onion Rings"
+    ],
+    "rice": [
+        "Cilantro Lime Rice",
+        "Stuffed Bell Peppers"
+    ],
+    "cilantro": [
+        "Cilantro Lime Rice"
+    ],
+    "lime juice": [
+        "Cilantro Lime Rice",
+        "Corn and Black Bean Salad"
+    ],
+    "lime zest": [
+        "Cilantro Lime Rice"
+    ],
+    "carrots": [
+        "Maple Roasted Carrots"
+    ],
+    "maple syrup": [
+        "Maple Roasted Carrots"
+    ],
+    "olive oil": [
+        "Maple Roasted Carrots",
+        "Spicy Sweet Potato Wedges",
+        "Saut\u00e9ed Green Beans",
+        "Corn and Black Bean Salad",
+        "Balsamic Brussels Sprouts",
+        "Roasted Beet and Feta Salad",
+        "Greek Style Lemon Potatoes",
+        "Quinoa Tabbouleh",
+        "Garlic Parmesan Asparagus",
+        "Mediterranean Chickpea Salad",
+        "Apple Walnut Salad"
+    ],
+    "zucchini": [
+        "Parmesan Zucchini Fries"
+    ],
+    "parmesan cheese": [
+        "Parmesan Zucchini Fries",
+        "Garlic Parmesan Asparagus",
+        "Pesto Pasta Salad"
+    ],
+    "eggs": [
+        "Parmesan Zucchini Fries",
+        "Fried Green Tomatoes",
+        "Crispy Onion Rings"
+    ],
+    "cauliflower": [
+        "Cheesy Cauliflower Bake"
+    ],
+    "cream cheese": [
+        "Cheesy Cauliflower Bake",
+        "Spinach and Cheese Stuffed Mushrooms"
+    ],
+    "cheddar cheese": [
+        "Cheesy Cauliflower Bake",
+        "Broccoli and Cheese Stuffed Potatoes",
+        "Cheesy Polenta"
+    ],
+    "sweet potatoes": [
+        "Spicy Sweet Potato Wedges",
+        "Mashed Sweet Potatoes"
+    ],
+    "chili powder": [
+        "Spicy Sweet Potato Wedges"
+    ],
+    "green beans": [
+        "Saut\u00e9ed Green Beans"
+    ],
+    "cherry tomatoes": [
+        "Caprese Salad Skewers",
+        "Pesto Pasta Salad"
+    ],
+    "mozzarella balls": [
+        "Caprese Salad Skewers"
+    ],
+    "balsamic vinegar": [
+        "Caprese Salad Skewers",
+        "Balsamic Brussels Sprouts",
+        "Roasted Beet and Feta Salad"
+    ],
+    "basil": [
+        "Caprese Salad Skewers"
+    ],
+    "potatoes": [
+        "Broccoli and Cheese Stuffed Potatoes",
+        "Greek Style Lemon Potatoes"
+    ],
+    "broccoli": [
+        "Broccoli and Cheese Stuffed Potatoes"
+    ],
+    "milk": [
+        "Broccoli and Cheese Stuffed Potatoes",
+        "Mashed Sweet Potatoes",
+        "Fried Green Tomatoes",
+        "Crispy Onion Rings"
+    ],
+    "corn kernels": [
+        "Corn and Black Bean Salad"
+    ],
+    "black beans": [
+        "Corn and Black Bean Salad"
+    ],
+    "Brussels sprouts": [
+        "Balsamic Brussels Sprouts"
+    ],
+    "honey": [
+        "Balsamic Brussels Sprouts",
+        "Honey Glazed Baby Carrots"
+    ],
+    "bell peppers": [
+        "Stuffed Bell Peppers"
+    ],
+    "tomato": [
+        "Stuffed Bell Peppers",
+        "Quinoa Tabbouleh",
+        "Mediterranean Chickpea Salad"
+    ],
+    "ground beef": [
+        "Stuffed Bell Peppers"
+    ],
+    "cheese": [
+        "Stuffed Bell Peppers"
+    ],
+    "beets": [
+        "Roasted Beet and Feta Salad"
+    ],
+    "feta cheese": [
+        "Roasted Beet and Feta Salad",
+        "Mediterranean Chickpea Salad"
+    ],
+    "lemon juice": [
+        "Greek Style Lemon Potatoes",
+        "Cucumber Dill Salad",
+        "Quinoa Tabbouleh",
+        "Mediterranean Chickpea Salad"
+    ],
+    "oregano": [
+        "Greek Style Lemon Potatoes"
+    ],
+    "spinach": [
+        "Spinach and Cheese Stuffed Mushrooms"
+    ],
+    "couscous": [
+        "Herbed Couscous"
+    ],
+    "chicken broth": [
+        "Herbed Couscous",
+        "Butternut Squash Soup",
+        "Cheesy Polenta"
+    ],
+    "lemon zest": [
+        "Herbed Couscous"
+    ],
+    "cucumber": [
+        "Cucumber Dill Salad",
+        "Quinoa Tabbouleh",
+        "Mediterranean Chickpea Salad"
+    ],
+    "dill": [
+        "Cucumber Dill Salad"
+    ],
+    "yogurt": [
+        "Cucumber Dill Salad"
+    ],
+    "quinoa": [
+        "Quinoa Tabbouleh"
+    ],
+    "butternut squash": [
+        "Butternut Squash Soup"
+    ],
+    "onion": [
+        "Butternut Squash Soup",
+        "Mediterranean Chickpea Salad"
+    ],
+    "cream": [
+        "Butternut Squash Soup"
+    ],
+    "asparagus": [
+        "Garlic Parmesan Asparagus"
+    ],
+    "cinnamon": [
+        "Mashed Sweet Potatoes"
+    ],
+    "bok choy": [
+        "Sesame Ginger Bok Choy"
+    ],
+    "sesame oil": [
+        "Sesame Ginger Bok Choy"
+    ],
+    "soy sauce": [
+        "Sesame Ginger Bok Choy"
+    ],
+    "ginger": [
+        "Sesame Ginger Bok Choy"
+    ],
+    "sesame seeds": [
+        "Sesame Ginger Bok Choy"
+    ],
+    "polenta (cornmeal)": [
+        "Cheesy Polenta"
+    ],
+    "pasta": [
+        "Pesto Pasta Salad"
+    ],
+    "pesto sauce": [
+        "Pesto Pasta Salad"
+    ],
+    "baby carrots": [
+        "Honey Glazed Baby Carrots"
+    ],
+    "chickpeas": [
+        "Mediterranean Chickpea Salad"
+    ],
+    "green tomatoes": [
+        "Fried Green Tomatoes"
+    ],
+    "flour": [
+        "Fried Green Tomatoes",
+        "Crispy Onion Rings"
+    ],
+    "vegetable oil": [
+        "Fried Green Tomatoes",
+        "Crispy Onion Rings"
+    ],
+    "onions": [
+        "Crispy Onion Rings"
+    ],
+    "mixed greens": [
+        "Apple Walnut Salad"
+    ],
+    "apples": [
+        "Apple Walnut Salad"
+    ],
+    "walnuts": [
+        "Apple Walnut Salad"
+    ],
+    "blue cheese": [
+        "Apple Walnut Salad"
+    ]
+}
